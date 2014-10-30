@@ -4,7 +4,6 @@ NAME=test
 echo $NAME >> test.txt
 echo "fagfewagewa$NAME"
 
- -----------
 
 foo="abc
 def
