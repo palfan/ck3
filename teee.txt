@@ -9,4 +9,3 @@ def
 syz
 abc
 def
-syz
